@@ -1,6 +1,6 @@
 ### ar toolkit tests ###
 
-based on (https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)[https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf]
+based on [https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 
 @AndraConnect
 
