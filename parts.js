@@ -1,0 +1,1 @@
+ <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box>
